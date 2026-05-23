@@ -3,7 +3,7 @@
     "url": "https://voetbalbe.boards.net/thread/8236/mexico-zuid-afrika",
     "created_at": "2026-05-11T19:37:08.342496+00:00",
     "ft_posted": false
-  }, 
+  },
   "2026-06-11_South Korea_vs_Czech Republic": {
     "url": "https://voetbalbe.boards.net/thread/8167/zuid-korea-tsjechi",
     "created_at": "2026-05-11T23:15:34.326771+00:00",
@@ -32,6 +32,21 @@
   "2026-06-13_Haiti_vs_Scotland": {
     "url": "https://voetbalbe.boards.net/thread/8287/ha-ti-schotland",
     "created_at": "2026-05-23T12:51:42.071783+00:00",
+    "ft_posted": false
+  },
+  "2026-06-15_Belgium_vs_Egypt": {
+    "url": "https://voetbalbe.boards.net/thread/8288/belgi-egypte",
+    "created_at": "2026-05-23T15:05:41.131003+00:00",
+    "ft_posted": false
+  },
+  "2026-06-21_Belgium_vs_Iran": {
+    "url": "https://voetbalbe.boards.net/thread/8289/belgi-iran",
+    "created_at": "2026-05-23T15:05:59.698562+00:00",
+    "ft_posted": false
+  },
+  "2026-06-26_New Zealand_vs_Belgium": {
+    "url": "https://voetbalbe.boards.net/thread/8290/nieuw-zeeland-belgi",
+    "created_at": "2026-05-23T15:06:18.505491+00:00",
     "ft_posted": false
   }
 }
