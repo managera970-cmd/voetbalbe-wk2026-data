@@ -104,11 +104,6 @@
     "created_at": "2026-05-25T06:02:00.334732+00:00",
     "ft_posted": false
   },
-  "2026-06-15_Austria_vs_Jordan": {
-    "url": "https://voetbalbe.boards.net/thread/8304/oostenrijk-jordani",
-    "created_at": "2026-05-25T18:01:06.943121+00:00",
-    "ft_posted": false
-  },
   "2026-06-16_Austria_vs_Jordan": {
     "url": "https://voetbalbe.boards.net/thread/8304/oostenrijk-jordani",
     "created_at": "2026-05-25T18:01:06.943121+00:00",
@@ -137,6 +132,21 @@
   "2026-06-18_Czech Republic_vs_South Africa": {
     "url": "https://voetbalbe.boards.net/thread/8310/tsjechi-zuid-afrika",
     "created_at": "2026-05-26T06:01:56.985185+00:00",
+    "ft_posted": false
+  },
+  "2026-06-18_Switzerland_vs_Bosnia & Herzegovina": {
+    "url": "https://voetbalbe.boards.net/thread/8314/zwitserland-bosnia-herzegovina",
+    "created_at": "2026-05-26T18:01:11.094848+00:00",
+    "ft_posted": false
+  },
+  "2026-06-18_Canada_vs_Qatar": {
+    "url": "https://voetbalbe.boards.net/thread/8315/canada-qatar",
+    "created_at": "2026-05-26T18:01:31.285954+00:00",
+    "ft_posted": false
+  },
+  "2026-06-18_Mexico_vs_South Korea": {
+    "url": "https://voetbalbe.boards.net/thread/8316/mexico-zuid-korea",
+    "created_at": "2026-05-26T18:01:50.325425+00:00",
     "ft_posted": false
   }
 }
